@@ -29,5 +29,8 @@ Halo, saya Muhamad Rafid Fajar, mahasiswa program studi Informatika kelas IF401.
 - Seaborn
 - SciPy
 - Scikit-learn
+- imbalanced-learn (imblearn)
+- tensorflow/keras
+  
 ### Kesimpulan
 Dari pertemuan 1 sampai 13, saya belajar perjalanan Data Science secara bertahap, mulai dari dasar Python, NumPy, dan Pandas untuk mengolah data, dilanjutkan dengan cara membersihkan data, menangani missing value dan outlier, hingga statistika dasar dan visualisasi dengan Matplotlib dan Seaborn. Masuk ke Machine Learning, saya mulai dari Regresi Linier untuk memprediksi nilai kontinu, lalu lanjut ke Klasifikasi lewat Logistic Regression dan Decision Tree beserta cara mengevaluasinya (Accuracy, Precision, Recall, F1 Score), kemudian diperkuat dengan ensemble learning seperti Random Forest serta cara menangani imbalanced dataset. Setelah itu saya beralih ke Unsupervised Learning, mempelajari Clustering (K-Means dan Hierarchical) untuk menemukan pola tanpa label, dilanjutkan dengan Association Rule Mining lewat algoritma Apriori dan pengenalan sistem rekomendasi (Collaborative dan Content Based Filtering). Sebagai penutup, saya diperkenalkan pada konsep dasar Deep Learning lewat Artificial Neural Network dan NLP lewat TF-IDF, yang menjadi fondasi dari teknologi AI modern seperti ChatGPT dan BERT.
