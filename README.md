@@ -16,6 +16,11 @@ Halo, saya Muhamad Rafid Fajar, mahasiswa program studi Informatika kelas IF401.
 | 5 | Visualisasi Data | [Lihat](https://github.com/rafidfajar/data-science-2026/blob/main/Pertemuan5_Muhamad_Rafid_Fajar_250401020195.ipynb) |
 | 6 | Persiapan Data | [Lihat](https://github.com/rafidfajar/data-science-2026/blob/main/Pertemuan6_Muhamad_Rafid_Fajar_250401020195.ipynb) |
 | 7 | Pengantar Machine Learning: Regresi Linier | [Lihat](https://github.com/rafidfajar/data-science-2026/blob/main/Pertemuan7_Muhamad_Rafid_Fajar_250401020195.ipynb) |
+| 9 | Algoritma Klasifikasi | [Lihat](https://github.com/rafidfajar/data-science-2026/blob/main/Pertemuan9_Muhamad_Rafid_Fajar_250401020195.ipynb) |
+| 10 | Algoritma Klasifikasi Bagian 2 | [Lihat](https://github.com/rafidfajar/data-science-2026/blob/main/Pertemuan10_Muhamad_Rafid_Fajar_250401020195.ipynb) |
+| 11 | Segmentasi Pelanggan | [Lihat](https://github.com/rafidfajar/data-science-2026/blob/main/Pertemuan11_Muhamad_Rafid_Fajar_250401020195.ipynb) |
+| 12 | Market Basket Analysis & Rekomendasi Produk | [Lihat](https://github.com/rafidfajar/data-science-2026/blob/main/Pertemuan12_Muhamad_Rafid_Fajar_250401020195.ipynb) |
+| 13 |  Klasifikasi Non-Linear & Analisis Sentimen | [Lihat](https://github.com/rafidfajar/data-science-2026/blob/main/Pertemuan13_Muhamad_Rafid_Fajar_250401020195.ipynb) |
 
 ### Library Python
 - Pandas
